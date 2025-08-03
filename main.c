@@ -1,3 +1,15 @@
+/**
+ * 
+ * @file main.c
+ * @author Antoniowski
+ * @brief main file of simclo program
+ * 
+ * This is the entire simplo source code, the simple clock for the terminal.
+ * You can find all "rendering" methods and utilities that are used to 
+ * handle the digital clock.
+ * 
+ */
+
 #include <unistd.h>
 #include <stdio.h>
 #include <time.h>
